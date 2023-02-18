@@ -6,7 +6,7 @@ import streamlit as st
 
 st.write("""
 # Stock Market Web Application
-**Test** show annualized return on a stock! 
+**Annualized return on the stock:** 
 """)
 
 st.sidebar.header('User Input')
