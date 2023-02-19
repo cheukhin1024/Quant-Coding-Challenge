@@ -8,6 +8,9 @@
 
 ## How to use the Application
 
+https://youtu.be/uqb2hkZ1UeE
+
+
 There are 3 user inputs:
 - Asset (Yahoo Finance Ticker Symbol)
 - Start Date (Format: YYYY-MM-DD)
