@@ -7,8 +7,7 @@
 - streamlit
 
 ## How to use the Application
-
-###### Youtube Demonstration:
+Youtube Demonstration:
 https://youtu.be/uqb2hkZ1UeE
 
 
