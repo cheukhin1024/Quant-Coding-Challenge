@@ -67,6 +67,8 @@ After entering 3 user input and pressing "Enter", it shows annualized return on 
 
 - Step 2: Go to the IDE terminal, run **docker build -t my-finance .**   This operation installs all necessary image files.
 
+  Note: my-finance is the name of the container
+  
 - Step 3: run **docker run -p 80:5000 -d my-finance**
 
 - Step 4: You can open the web page!
