@@ -49,3 +49,14 @@ After entering 3 user input and pressing "Enter", it shows annualized return on 
 
 - The annualized return on the MSFT is: 0.10882 (10.882%)
 <img width="1440" alt="Screenshot 2023-02-20 at 2 36 51 AM" src="https://user-images.githubusercontent.com/70860455/219968156-fc13041f-9865-4056-9572-cd928a44c243.png">
+
+## Assumptions and constraints you have extrapolated from these requirements
+- Asset must be String and the string symbol must exist in Yahoo Finance.
+- Start Date follows the format YYYY-MM-DD
+- End Date follows the format YYYY-MM-DD
+- Price data is based on adjusted close
+
+## Explain the design decisions made and describe what you would have done differently if you had more time
+- As the job that I applied for is Python Back-end Engineer- Data Services, it is less suitable for me to use java based technologies (eg. Spring Boot, Angular...,etc)
+- Many popular WebApp frameworks are time-consuming. They require developers to write every HTML and CSS to build the frontend.
+- As a result, I use Streamlit.
