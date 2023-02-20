@@ -65,8 +65,8 @@ After entering 3 user input and pressing "Enter", it shows annualized return on 
 # How to run the application
 - Step 1: Install Docker Hub. As my environment is using MacOS, you need to follow this installation guideline https://docs.docker.com/desktop/install/mac-install/ if you use MacOS.
 
-- Step 2: Go to the IDE terminal, run **docker build -t my-finance**   This operation installs all necessary image files.
+- Step 2: Go to the IDE terminal, run **docker build -t my-finance .**   This operation installs all necessary image files.
 
 - Step 3: run **docker run -p 80:5000 -d my-finance**
 
-- Step 4:
+- Step 4: You can open the web page!
