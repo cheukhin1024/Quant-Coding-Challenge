@@ -72,5 +72,5 @@ After entering 3 user input and pressing "Enter", it shows annualized return on 
 - Step 4: You can open the web page!
 ![docker](https://user-images.githubusercontent.com/70860455/220154661-40f6a0d8-16cc-4490-8ea0-7a61b7dc8c15.JPG)
 ![docker2](https://user-images.githubusercontent.com/70860455/220154675-e387db37-de3c-47ac-967e-39991f04ee39.JPG)
-
+![docker3](https://user-images.githubusercontent.com/70860455/220157218-68a4c7f1-d81f-4e6f-8e0f-a4499a07bec0.JPG)
 
